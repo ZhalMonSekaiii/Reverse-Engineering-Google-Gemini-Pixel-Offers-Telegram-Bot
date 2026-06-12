@@ -1,0 +1,17 @@
+#!/system/bin/sh
+# Pixel 10 Pro Device Spoofing
+setprop ro.product.model "Pixel 10 Pro"
+setprop ro.product.brand "google"
+setprop ro.product.manufacturer "Google"
+setprop ro.product.device "frankel"
+setprop ro.product.name "frankel"
+setprop ro.build.display.id "BP1A.250505.005"
+setprop ro.build.fingerprint "google/frankel/frankel:16/BP1A.250505.005/13209991:user/release-keys"
+setprop ro.build.description "frankel-user 16 BP1A.250505.005 13209991 release-keys"
+setprop ro.build.product "frankel"
+setprop ro.product.first_api_level "36"
+setprop ro.hardware "frankel"
+setprop ro.boot.hardware "frankel"
+setprop persist.sys.timezone "Asia/Jakarta"
+setprop persist.sys.language "in"
+setprop persist.sys.country "ID"

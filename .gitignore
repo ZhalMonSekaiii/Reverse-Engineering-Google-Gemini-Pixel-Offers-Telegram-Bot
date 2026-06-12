@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+ENV/
+
+# Playwright
+*.har
+
+# Credentials & Config
+config_local.py
+token.pickle
+credentials.json
+.emulator_console_auth_token
+login_state/
+auth_state.json
+
+# Downloads/Temp
+PIF_osm0sis.zip
+PIF_Next.zip
+PlayIntegrityFix-v*.zip
+ZygiskNext-*.zip
+Magisk-*.apk
+rootAVD/
+rootAVD.zip
+custom.pif.json
+google_state.json
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
